@@ -28,9 +28,3 @@ An interactive Excel dashboard analyzing Amazon sales data across regions, categ
 - Pivot Tables
 - Slicers
 - Charts (Line, Donut, Bar, Pie)
-
-## Files
-| File | Description |
-|------|-------------|
-| `Amazon Sales Dashboard.xlsx` | Main dashboard file |
-| `dashboard.png` | Dashboard screenshot |
