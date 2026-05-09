@@ -1,65 +1,36 @@
-# 📊 Amazon Sales Dashboard
+# Amazon Sales Dashboard
 
-## Project Overview
-The Amazon Sales Dashboard is an interactive Excel-based data analytics project designed to analyze sales performance, profit trends, customer behavior, and regional insights.  
-The dashboard helps in transforming raw sales data into meaningful business insights through data visualization and reporting techniques.
+An interactive Excel dashboard analyzing Amazon sales data across regions, categories, and payment methods.
 
----
+## Dashboard Preview
+<img width="1621" height="851" alt="image" src="https://github.com/user-attachments/assets/f57b5bc2-5948-4b26-b897-a44fafea2595" />
 
-## Objective
-- Analyze Amazon sales data efficiently
-- Identify top-performing categories and regions
-- Track sales and profit trends
-- Improve business decision-making using data visualization
 
----
+## Key Metrics
+| Metric | Value |
+|--------|-------|
+| Total Revenue | ₹81,75,199.83 |
+| Units Sold | 1,49,970 |
+| Average Price | ₹252.51 |
+| Average Rating | 3.0 |
+| Most Sold Category | Beauty |
+| Top Payment Method | Debit Card |
 
-## Tools & Technologies Used
+## Features
+- **Region Filter** — Slice data by Asia, Europe, Middle East, North America
+- **Month-wise Sales Trend** — Line chart tracking revenue Jan–Dec
+- **Category-wise Sales** — Breakdown across Beauty, Books, Electronics, Fashion, Home & Kitchen, Sports
+- **Payment Method Analysis** — UPI (21%), Wallet (20%), COD (20%), Credit Card (20%), Debit Card (19%)
+- **KPI Cards** — Quick snapshot of key business metrics
+
+## Tools Used
 - Microsoft Excel
 - Pivot Tables
-- Pivot Charts
 - Slicers
-- Data Cleaning Techniques
+- Charts (Line, Donut, Bar, Pie)
 
----
-
-##  Key Features
-✔️ Interactive Dashboard  
-✔️ Region-wise Sales Analysis  
-✔️ Category-wise Performance Tracking  
-✔️ Profit Analysis  
-✔️ Dynamic Filters using Slicers  
-✔️ Monthly Sales Trend Visualization  
-✔️ KPI Metrics for Better Insights  
-
----
-
-##  Dashboard Insights
-- Identified high-performing product categories
-- Analyzed regions generating maximum revenue
-- Compared sales vs profit trends
-- Observed monthly growth patterns
-- Tracked customer purchasing behavior
-
----
-
-##  Project Workflow
-1. Data Collection  
-2. Data Cleaning  
-3. Data Processing  
-4. Pivot Table Creation  
-5. Dashboard Development  
-6. Data Visualization & Insights Generation  
-
----
-
-##  Outcome
-This project demonstrates practical knowledge of:
-- Data Analysis
-- Business Intelligence
-- Dashboard Designing
-- Data Visualization
-- Excel Reporting Skills
-Aspiring Data Analyst passionate about data visualization and business analytics.
-
-🔗 GitHub Profile: https://github.com/YOUR_USERNAME
+## Files
+| File | Description |
+|------|-------------|
+| `Amazon Sales Dashboard.xlsx` | Main dashboard file |
+| `dashboard.png` | Dashboard screenshot |
