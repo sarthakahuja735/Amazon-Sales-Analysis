@@ -3,15 +3,16 @@
 An interactive Excel dashboard analyzing Amazon sales data across regions, categories, and payment methods.
 
 ## Dashboard Preview
-<img width="1621" height="851" alt="image" src="https://github.com/user-attachments/assets/f57b5bc2-5948-4b26-b897-a44fafea2595" />
+<img width="1614" height="838" alt="image" src="https://github.com/user-attachments/assets/1930c315-e613-4e7b-9933-e8d15da65709" />
+
 
 
 ## Key Metrics
 | Metric | Value |
 |--------|-------|
-| Total Revenue | ₹81,75,199.83 |
+| Total Revenue | $81M |
 | Units Sold | 1,49,970 |
-| Average Price | ₹252.51 |
+| Average Price | $252.51 |
 | Average Rating | 3.0 |
 | Most Sold Category | Beauty |
 | Top Payment Method | Debit Card |
